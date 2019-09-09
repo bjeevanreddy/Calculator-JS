@@ -1,0 +1,45 @@
+button{
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    
+    /* background-color: rgb(235, 175, 175); */
+}
+ #box
+{
+    
+    padding: 5px;
+    border-radius: 5px;
+    width: 100%;
+    color: #000;
+    background: wheat;
+    height: 50px;
+} 
+/* table{
+    margin: 100px;
+} */
+table,td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-weight: bolder;
+    
+  }
+  td{
+      background: #000;
+      color: #000;
+     
+  }
+  body{
+      font-weight: bolder;
+      
+  }
+  h1
+  {
+      text-align: center;
+      text-decoration: underline;
+      text-decoration-color: black;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      font-size: 25px;
+  }
